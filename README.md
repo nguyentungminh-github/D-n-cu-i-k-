@@ -1,3 +1,1 @@
-# D-n-cu-i-k-
-# D-n-cu-i-k-
-# D-n-cu-i-k-
+# D-n-Cu-i-K-1

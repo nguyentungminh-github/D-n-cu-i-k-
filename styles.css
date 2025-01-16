@@ -70,13 +70,14 @@
   
   /* Banner */
   .banner {
-    background-color: #faf3dd;
+    background-color: #e7e7e771;
     padding: 20px;
     text-align: center;
   }
   
   .banner img {
     width: 100%;
+    border :#704e2e ;
     max-height: 300px;
     object-fit: cover;
   }
